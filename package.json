@@ -1,5 +1,5 @@
 {
-    "name": "Social-Network",
+    "name": "social-network",
     "version": "1.0.1",
     "description": "Social network web application where users share thoughts and react to friend thoughts, along with generating a friends list.",
     "main": "index.js",
